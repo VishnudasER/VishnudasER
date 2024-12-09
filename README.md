@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **other developers**
 
-- 💬 Ask me about **Python,Django,React**
+- 💬 Ask me about **Javascript, Node.js,Python,Django,React**
 
 - 📫 How to reach me **dasv2017@gmail.com**
 
