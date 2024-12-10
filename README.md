@@ -28,7 +28,7 @@
   <a href="https://linkedin.com/in/vishnu-das-e-r" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/vishnu-das-e-r" target="blank">
+  <a href="https://stackoverflow.com/users/26978275/vishnu-das-e-r" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="40" width="40" />
   </a>
   <a href="https://instagram.com/vishnu_d_a_s__" target="blank">
