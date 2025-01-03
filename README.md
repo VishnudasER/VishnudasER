@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **Data Analytics**  
 - 👯 I’m looking to collaborate with **other developers**  
-- 💬 Ask me about **JavaScript, Node.js, Python, Django, Angular, React**  
+- 💬 Ask me about **Python, Django, React, Angular JavaScript, Node.js**  
 - 📫 How to reach me: **[dasv2017@gmail.com](mailto:dasv2017@gmail.com)**  
 - ⚡ Fun fact: **I love cracking jokes to lighten the mood!**
 
